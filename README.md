@@ -9,6 +9,4 @@ cd react-news （进入当前的项目）
 
 npm install  (安装依赖包)
 
-npm start (运行本地开发环境)
-
 webpack-dev-server
